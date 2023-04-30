@@ -28,6 +28,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: https://github.com/Radu-A/qr-code
+- Live Server: https://qr-code-ashen-nu.vercel.app/
 
 ## My process
 
