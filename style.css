@@ -11,7 +11,7 @@ main {
 }
 section {
     background-color: hsl(212, 45%, 89%);
-    /*altura = altura pantalla*/
+    /*height = screen height*/
     height: 100vh;
     display: flex;
     flex-direction: column;
